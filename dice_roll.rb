@@ -4,5 +4,5 @@
 
 def roll
   # code goes here
-  dice_roll = 
+  dice_roll = (1..6)
 end
