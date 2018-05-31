@@ -5,4 +5,5 @@
 def roll
   # code goes here
   dice_roll = (1..6)
+  rand(dice_roll)
 end
